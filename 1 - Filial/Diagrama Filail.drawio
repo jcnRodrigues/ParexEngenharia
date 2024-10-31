@@ -30,12 +30,6 @@
                 <mxCell id="3" value="Coelho Tecnologia" style="fontColor=#f7f7f8;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
                     <mxGeometry x="620" y="150" width="80" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" style="edgeStyle=none;html=1;" parent="1" source="5" target="2" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" style="edgeStyle=none;html=1;exitX=0.91;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5" target="10" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="5" value="StartLink" style="fontColor=#fafafa;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;" parent="1" vertex="1">
                     <mxGeometry x="170" y="130" width="65" height="60" as="geometry"/>
                 </mxCell>
@@ -112,6 +106,9 @@
                 </mxCell>
                 <mxCell id="30" value="SW001PX-01" style="fontColor=#FFFFFF;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" parent="1" vertex="1">
                     <mxGeometry x="374" y="770" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="200 Mbps&amp;nbsp;&lt;br&gt;Dedicados" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="90" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
